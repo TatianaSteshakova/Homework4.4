@@ -38,4 +38,5 @@ int main()
     cout << "Минимальное число: " << min << endl;
     cout << "Максимальное число: " << max << endl;
     cout << "Среднее значение: " << avg << endl;
+    cout << "Сумма чисел: " << sum << endl;
 }
